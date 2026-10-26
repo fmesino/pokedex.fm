@@ -9,7 +9,7 @@ La aplicación fue desarrollada en Angular, por lo que requirió un proceso de c
 1. Se abrió la terminal de comandos (CMD) en Windows y se navegó hasta la ruta del código fuente:
 
    ```
-   cd "sistemas-distribuidos\poke-dex-lab\source\pokedex-angular"
+   cd "C:\Users\fmesi\Desktop\pokedex M"
    
    ```
 
